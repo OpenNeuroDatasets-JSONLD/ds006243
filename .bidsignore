@@ -1,2 +1,4 @@
-events/
-*png
+/events
+/events/*
+/events/**
+/*.png
